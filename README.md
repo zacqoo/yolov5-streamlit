@@ -13,11 +13,3 @@ pip install -r requirements.txt
 ```
 streamlit run main.py
 ```
-
-**Detection from image**
-
-![streamlit yolov5 image detection](data/images/image.png)
-
-**Detection from video**
-
-![streamlit yolov5 video detection](data/images/video.png)
