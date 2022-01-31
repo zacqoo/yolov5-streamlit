@@ -100,7 +100,7 @@ if __name__ == '__main__':
 
     if is_valid:
         print('valid')
-        if st.button('DETECT'):
+        if st.button('START DETECTION'):
 
             detect(opt)
 
